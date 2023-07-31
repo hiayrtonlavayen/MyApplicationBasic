@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">My Application Basic</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="tile_label">Example tile</string>
+    <string name="title_activity_presentation._main">presentation.MainActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="complication_label">Example complication</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+
+    <!-- Wallet activity -->
+    <string name="title_activity_wallet">WalletActivity</string>
+    <string name="add_to_google_wallet_button_content_description">Add to Google Wallet</string>
+    <string name="sample_pass" translatable="false">Sample Pass</string>
+    <string name="google_wallet_status_unavailable" translatable="false">Unfortunately, Google
+        Wallet is not available on this phone.
+    </string>
+    <string name="add_google_wallet_success" translatable="false">The pass was added successfully!
+    </string>
+    <string name="add_google_wallet_cancelled" translatable="false">The user cancelled adding the
+        pass to Google Wallet.
+    </string>
+    <string name="add_google_wallet_unknown_error" translatable="false">An unknown error occurred
+        when adding pass to Google Wallet.
+    </string>
+
+    <!-- Checkout activity -->
+    <string name="title_activity_checkout">CheckoutActivity</string>
+    <string name="checkout_item_description">Description</string>
+    <string name="googlepay_status_unavailable" translatable="false">Unfortunately, Google Pay is
+        not available on this phone.
+    </string>
+    <string name="payments_show_name" translatable="false">Successfully received payment data for
+        %s!
+    </string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
