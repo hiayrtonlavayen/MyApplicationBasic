@@ -1,2 +1,2 @@
 # MyApplicationBasic
-Lorem Ipsum
+Lorem Ipsum Pro 100
